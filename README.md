@@ -25,7 +25,7 @@ The project demonstrates the use of:
 
 Here’s an example screenshot of the project:
 
-![Birthday Card Screenshot](./birthday cards.png)
+![Birthday Card Screenshot](./birthday-cards.png)
 
 
 
